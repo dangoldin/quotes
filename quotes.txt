@@ -39,8 +39,10 @@ This material may be protected by copyright.
 - Bruce Lee
 
 By some estimates, half of the population of the US would physically lay eyes on him [Charles Lindbergh] at one time or another
+- Hard Landing: The Epic Contest for Power and Profits That Plunged the ..
 
 A security guard in St Thomas? Why not a barking dog instead? Hell, why not a tape recording of a barking dog?
+- Hard Landing: The Epic Contest for Power and Profits That Plunged the ..
 
 "There is no gray - just black and white ... If you're hurt enough to limp, you can't run at all. If you aren't, it maks no difference."
 - John Landy
@@ -133,3 +135,13 @@ In preparing for battle I have always found that plans are useless, but planning
 
 "Everybody has a plan until they get punched in the mouth."
 - Mike Tyson
+
+"Learn the rules like a pro so you can break them like an artist"
+- Pablo Picasso
+
+Semil: One follow up on that, do you see any similarities from your time at Facebook with Facebook platform and connect, and how Uber may supercharge their platform.
+Chamath: Neither of them are platforms. They’re both kind of like these comical endeavors that do you as an Nth priority. I was in charge of Facebook platform. We trumpeted it out like it was some hot shit big deal. And I remember when we raised money from Bill Gates, 3 or 4 months after.. like our funding history was $5M, $83 M, $500M, and then $15B. When that 15B happened around literally a few months after Facebook platform and Gates said something along the lines of, “That’s a crock of shit. This isn’t a platform. A platform is when the economic value of everybody that uses it, exceeds the value of the company that creates it. Then it’s a platform.”
+If you apply that simple methodology to any company that says they’re a platform, there are only 3 platforms in the world! You know? Windows is a quasi-platform, decaying, but still, iOS is platform, and Android is platform, but that’s easy because the denominator is 0. So, I think, that these aren’t “platforms”, these are APIs, these are developer tools, which is good, and it’s a bridge to something, but it’s not a platform, so let’s stop calling it a platform, let’s call it what it is, which is a bunch of endpoints.
+
+"My designs were so deceptively simple that it was easy for people to assume I just had easy problems, whereas others, who made super-complicated designs (that were technically unsound and never worked) and were able to talk about them in ways that nobody understood, were considered geniuses."
+- Radia Perlman
