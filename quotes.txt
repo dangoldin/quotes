@@ -145,3 +145,9 @@ If you apply that simple methodology to any company that says they’re a platfo
 
 "My designs were so deceptively simple that it was easy for people to assume I just had easy problems, whereas others, who made super-complicated designs (that were technically unsound and never worked) and were able to talk about them in ways that nobody understood, were considered geniuses."
 - Radia Perlman
+
+"If a human operator needs to touch your system during normal operations, you have a bug. The definition of normal changes as your systems grow."
+- Carla Geisser, Google SRE, https://landing.google.com/sre/book/chapters/eliminating-toil.html
+
+"Don’t lie about who you are and we’re more likely to accept whoever you might be."
+- https://story.californiasunday.com/cooking-lessons
