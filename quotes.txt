@@ -151,3 +151,10 @@ If you apply that simple methodology to any company that says they’re a platfo
 
 "Don’t lie about who you are and we’re more likely to accept whoever you might be."
 - https://story.californiasunday.com/cooking-lessons
+
+I call it my billion-dollar mistake. It was the invention of the null reference in 1965. At that time, I was designing the first comprehensive type system for references in an object oriented language (ALGOL W). My goal was to ensure that all use of references should be absolutely safe, with checking performed automatically by the compiler. But I couldn't resist the temptation to put in a null reference, simply because it was so easy to implement. This has led to innumerable errors, vulnerabilities, and system crashes, which have probably caused a billion dollars of pain and damage in the last forty years.
+- Tony Hoarse
+https://en.wikiquote.org/wiki/C._A._R._Hoare
+
+"I feel bad for some companies out there. The founders, who are these incredible engineers, are now directors of their departments doing management rather than engineering. At the same time most of the people they are managing are nowhere near as good as they were at doing the actual work. That's what I hope never happens to me. I want to stay in the trenches working on the things all the time. There is some benefit to sitting back, reading and researching and getting some broader scope on it. But if you're divorced from the low level nuts and bolts of things, like how this actually applies to the real world, then you're just an academic. You get these huge disconnects between what an academic can do and what somebody in production can do."
+- John Carmack http://fd.fabiensanglard.net/doom3/pdfs/johnc-interviews.pdf#page117
