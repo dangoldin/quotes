@@ -503,3 +503,7 @@ Goddam it, Ben, I don’t believe a word that guy said to you. I’ll bet my ran
 
 Readability is the amount of money you're willing to bet that a change you make to the code will work the first time, without breaking anything, without testing it mechanically first.
 - (https://sway.com/b1pRwmzuGjqB30On)
+
+The object isn't to make art, it's to be in that wonderful state which makes art inevitable.
+- Robert Henri
+
