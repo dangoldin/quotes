@@ -507,3 +507,5 @@ Readability is the amount of money you're willing to bet that a change you make 
 The object isn't to make art, it's to be in that wonderful state which makes art inevitable.
 - Robert Henri
 
+The thing I have noticed is when the anecdotes and the data disagree, the anecdotes are usually right. There's something wrong with the way you are measuring it.
+- Jeff Bezos
