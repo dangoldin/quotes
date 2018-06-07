@@ -509,3 +509,6 @@ The object isn't to make art, it's to be in that wonderful state which makes art
 
 The thing I have noticed is when the anecdotes and the data disagree, the anecdotes are usually right. There's something wrong with the way you are measuring it.
 - Jeff Bezos
+
+We want people to speak the truth. We say, to disagree silently is disloyal. It's not okay to let some decision go through without saying your piece.
+- Reed Hastings
