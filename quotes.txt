@@ -515,3 +515,144 @@ We want people to speak the truth. We say, to disagree silently is disloyal. It'
 
 Once I was diagnosed with Hodgkin’s, my decision became simpler. If I were to relapse, it would be pointless—if not hazardous—to return to the stresses at Microsoft. If I continued to recover, I now understood that life was too short to spend it unhappily… Sometimes it seemed that Bill so utterly identified with Microsoft that he’d get confused about where the company left off and he began. I didn’t feel quite the same way. The business was hugely important, but it did not define me. I wasn’t sure what the future held, or even how much of it I’d have to enjoy, but I looked forward to a new phase. I had never forgotten my father’s advice: “Whatever you do, you should love it.” My dad was happy for me when I’d returned to Seattle four years earlier, full of ideas and enthusiasm. It seemed to him that I’d found my calling, and I thought I had, too. But now it was time to go.
 - Paul Allen
+
+They decreed that the stored-program idea rightfully belonged in the public domain. And there it has remained. That was probably just as well. However fierce the controversy surrounding its birth, the stored-program concept now ranks as one of the great ideas of the computer age—arguably the great idea.
+- M. Mitchell Waldrop, "The Dream Machine"
+
+When he’d been traumatized by his introduction to programming via batch processing. Those bureaucrats wanted him to wait for the computer? They considered his time to be less valuable than the computer’s?
+- M. Mitchell Waldrop, "The Dream Machine"
+
+By the time the session was drawing to a close, the debate was not about whether they should do the network, but about how.
+- M. Mitchell Waldrop, "The Dream Machine"
+
+That was the lie we told ourselves. Our money was bloody on only one side.
+- Bob Metcalfe (on taking money from DARPA)
+
+It was great. The spirit at that meeting was about as good as it gets—the most civilized, the most ecumenical, the most incredibly supportive atmosphere you could want. People would cheer you on even if they didn’t agree with you, just because they loved the fact that you were good. It was like in tennis, when somebody beats you with a great shot: you congratulate them. That was the spirit that made the ARPA community work. And that was the spirit that was fostered by the grad students.
+- Alan Kay
+
+On the frontier, man must often chart his course by stars he has never seen. Rarely does one recognize or discover a complex problem, formulate it, and lay out a procedure that will solve it—all in one great flash of insight
+- JCR Licklider
+
+They wanted progress, not progress reports
+- Kleinrock
+
+Never hire ‘good’ people, because ten good people together can’t do what a single great one can do.
+- Idiom
+
+You couldn’t even parse the words. You couldn’t respond to his arguments, because the whole processing capacity of your brain was spent on trying to understand him!
+- Stuart Card (on Lampson)
+
+Bob did have an enormous desire for control. Yet he was also one of the best managers I ever knew, because unlike some half-time researcher with a yen for power, he realized that his job was management. He took it seriously. And he knew how to handle people.
+- Gary Starkweather
+
+Convert a “class-one” disagreement—one in which the combatants were simply yelling at each other—into a “class two” disagreement, in which each side could explain the other side’s position to the other side’s satisfaction. You don’t have to believe the other guy, he would tell them. You just have to give a fair account of what he’s saying. And it worked. As one CSL member later explained it, Taylor’s class one/class two exercise was amazingly effective at clarifying unspoken assumptions and ferreting out facts that one person knew and another didn’t. “So by the time you get done,” he said, “you all know the same set of things, and you end up concluding the same thing."
+- On Bob Taylor's management style
+
+Granted, the hazing process could be nerve-racking: audiences at PARC were not polite (Butler Lampson, for one, would sometimes storm down front to rip into the speaker face to face). But the feeling was that if you couldn’t take it, you didn’t belong there. And besides, notes Alan Kay, if you made it through and were accepted, you knew that everybody wanted you there: “You were a colleague from the word ‘Go.’ So the arguments could go deeper without hurt feelings. For example, Butler and I argued just constantly. Yet we were great friends.”
+- M Mitchell Waldrop
+
+Having learned to read at the age of three, he continued, he had already read several hundred books by the time he entered school. “[So] I knew in first grade that they were lying to me because I had already been exposed to other points of view. ... They don’t like having different points of view, so it was a battle. Of course, I would pipe up with my five-year-old voice. ...”
+- M Mitchell Waldrop (on Alan Kay)
+
+The goal was to design a programming system in which simple things would be simple, and complex things would be possible.
+- Alan Kay
+
+Lampson and Thacker thought this was a great idea, says Metcalfe, and they were right there with ideas, suggestions, and support. So it was back to the twenty-five-hour days.
+- M Mitchell Waldrop, "The Dream Machine"
+
+Considered as an event, and not just as a place, the Xerox Palo Alto Research Center was unique, one of those rare, near-miraculous combinations of talent, luck, and timing that you couldn’t reproduce if you tried. To begin with, PARC was the direct heir of the people, the ideas, the technology, and the culture that had been nurtured by ARPA since J. C. R. Licklider’s time. Indeed, it’s fair to say that PARC was ARPA continued by other means.
+- M Mitchell Waldrop, "The Dream Machine"
+
+In the history of art, the most powerful work in any genre is done not by the adults who invent it, but by the first generation of kids who grow up in it. Think of perspective painting during the Renaissance. Well, we were that generation. We were the kids who’d had our Ph.D.s paid for by ARPA.
+- Alan Kay
+
+It wasn’t that the headquarters people were stupid or anti-intellectual, says Pake: “They were just nonintellectual.” The majority of them showed no interest in new ideas, or new technologies, or possibilities for the future—all the things that excited Pake. “The corporate culture was dominated by the sales force and the finance people,” he says. “Long-term thinking didn’t come easily for them. If you told them about a possible new product, yes, they were very interested. But not in the long-term investment that led to a product. Well, that was a shock to me. Joe Wilson had clearly understood technology.” Indeed, if Wilson hadn’t risked everything on a totally unproven new technology—xerography—Xerox wouldn’t even exist. But Joe Wilson was dead. And his successors seemed unable or unwilling to change the underlying culture.
+- M Mitchell Waldrop, "The Dream Machine"
+
+Furthermore, retired people are generally more sociable and more civilized. No longer grubbing for a living, they come to place more value on good conversation, on enjoying people just for the company they offer.
+- Ray Oldenburg, "The Great Good Place"
+
+The suburb is merely a base from which the individual reaches out to the scattered components of social existence.
+- Ray Oldenburg, "The Great Good Place"
+
+As both father and mother gain some semblance of a community life via their daily escapes from the subdivision, children are even more cut off from ties with adults. Home offers less and the neighborhood offers nothing for the typical suburban adolescent.
+- Ray Oldenburg, "The Great Good Place"
+
+Americans have substituted the vision of the ideal home for that of the ideal city.
+- Ray Oldenburg, "The Great Good Place"
+
+Advertising, in its ideology and effects, is the enemy of an informal public life. It breeds alienation. It convinces people that the good life can be individually purchased. In the place of the shared camaraderie of people who see themselves as equals, the ideology of advertising substitutes competitive acquisition. It is the difference between loving people for what they are and envying them for what they own. It is no coincidence that cultures with a highly developed informal public life have a disdain for advertising.
+- Ray Oldenburg, "The Great Good Place"
+
+Pierre Salinger was asked how he liked living in France and how he would compare it with life in the United States. His response was that he likes France where, he said, everyone is more relaxed. In America, there’s a lot of pressure. The French, of course, have solved the problem of place. The Frenchman’s daily life sits firmly on a tripod consisting of home, place of work, and another setting where friends are engaged during the midday and evening aperitif hours, if not earlier and later. In the United States, the middle classes particularly are attempting a balancing act on a bipod consisting of home and work. That alienation, boredom, and stress are endemic among us is not surprising. For most of us, a third of life is either deficient or absent altogether, and the other two-thirds cannot be successfully integrated into a whole.
+- Ray Oldenburg, "The Great Good Place"
+
+In both Greek and Roman society, prevailing values dictated that the agora and the forum should be great, central institutions; that homes should be simple and unpretentious; that the architecture of cities should assert the worth of the public and civic individual over the private and domestic one. Few means to lure and invite citizens into public gatherings were overlooked. The forums, colosseums, theaters, and ampitheaters were grand structures, and admission to them was free.
+- Ray Oldenburg, "The Great Good Place"
+
+In his book on our “joyless economy,” Tibor Scitovsky suggests that, due to our Puritan tradition, Americans do not recognize the tremendous human need for novelty.
+- Ray Oldenburg, "The Great Good Place"
+
+An efficient home-delivery media system, in contrast, tends to make shut-ins of otherwise healthy individuals; the more people receive news in isolation, the more they become susceptible to manipulation by those who control the media.
+- Ray Oldenburg, "The Great Good Place"
+
+Idiot comes to us from the ancient Greeks, who equated privacy with stupidity.
+- Ray Oldenburg, "The Great Good Place"
+
+Those who have found a place where they can stop in as lone individuals and find association and camaraderie awaiting them are indeed as rare as they are fortunate.
+- Ray Oldenburg, "The Great Good Place"
+
+Late in his life, Robert Frost consented to an interview by Edward R. Murrow and, when asked to name the worst word in our language, the poet and biographer unhesitatingly responded, exclusive! It was not, of course, those nine letters per se that appalled him; it was the inclinations of so many of his fellow Americans, particularly those of means.
+- Ray Oldenburg, "The Great Good Place"
+
+Americans believe that progress and individual completion—long the twin goals of Western civilization—are achieved through the consumption of goods and services. Many of us would deny that we, personally, hold such a belief, but most of us behave as if we do. We labor to consume, and we consume in excess of need in order to feel successful, powerful, sexual, or just adequate. Our culture requires that we feel and act this way.
+- Ray Oldenburg, "The Great Good Place"
+
+The modern urban environment accommodates people as players of unifunctional roles. It reduces people to clients, customers, workers, and commuters, allowing them little opportunity to be human beings. It constricts and constrains.
+- Ray Oldenburg, "The Great Good Place"
+
+We have arrived at that point where the addition of a family of four to the typical urban area necessitates an additional ten thousand square feet of parking space to accommodate members’ vehicles at home and in the variety of separated centers at which they will have to park them. And now, we must use up a lot of land to secure houses and lots away from the congestion of auto traffic.
+- Ray Oldenburg, "The Great Good Place"
+
+Today man has come to a paradox. A third kind of destruction of cities has now been added to nature and men at war. The builders of cities are now simultaneously the destroyers of cities. Man does not require a war any longer to destroy the settlements of his fellow men. He virtually destroys the town’s direction in the process of construction. That process, although creative and progressive in principle, is disastrous to the well-being of the people and to the reasonable function of the town.
+- Ray Oldenburg, "The Great Good Place"
+
+Far and away the best prize that life has to offer is the chance to work hard at work worth doing.
+- Theodore Roosevelt
+
+Indeed, King Louis XIV of France, confronted with a revised map of his domain based on accurate longitude measurements, reportedly complained that he was losing more territory to his astronomers than to his enemies.
+- Dava Sobel, "Longitude"
+
+As an answer to those who are in the habit of saying to every new fact, 'What is its use?' The answer of the experimentalist would be, 'Endeavour to make it useful.'
+— Michael Faraday
+
+We are what we repeatedly do. Excellence, then, is not an act but a habit.
+- Will Durant
+
+“We don’t have corporate jets,” he pointedly told an auditorium full of Stanford graduate students in February 2008, as InBev was secretly lining up financing to buy A-B. “I don’t have an office. I share my table with my vice presidents. I sit with my marketing guy to my left, my sales guy to my right, my finance guy in front of me.” Private offices fostered mediocrity, he said. “Mediocre people love to be behind closed doors, playing games and stuff.” And there was no free beer at InBev, either. “I don’t need the company to buy my beer,” he said. “I can afford to buy my own.”
+- Carlos Brito
+
+In this world of human affairs there is no worse nuisance than a boy at the age of fourteen. He is neither ornamental nor useful.
+- Rabindranath Tagore
+
+Alas for our foolish human nature! Its fond mistakes are persistent. The dictates of reason take a long time to assert their own sway. The surest proofs meanwhile are disbelieved. False hope is clung to with all one's might and main, till a day comes when it has sucked the heart dry and it forcibly breaks through its bonds and departs. After that comes the misery of awakening, and then once again the longing to get back into the maze of the same mistakes.
+- Rabindranath Tagore
+
+History is not the past. It is the present. We carry our history. We are our history.
+- James Baldwin
+
+You’re either competing to be the best you can be or you’re not.
+- Pete Carrol
+
+If self-confidence is so important, why would we ever want to approach someone in a manner that might disrupt or shatter it?
+- Pete Carrol
+
+When you give athletes a chance to perform at varying levels of intensity, you offer an invitation for varying levels of performance.
+- Pete Carrol
+
+For the beginner, novelty is anything that hasn’t been encountered before. For the expert, novelty is nuance.
+- Angela Duckworth
+
+You can quit. But you can’t come home because I’m not going to live with a quitter. You’ve known that since you were a kid. You’re not coming back here.
+- Steve Young's father
