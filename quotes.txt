@@ -656,3 +656,33 @@ For the beginner, novelty is anything that hasn’t been encountered before. For
 
 You can quit. But you can’t come home because I’m not going to live with a quitter. You’ve known that since you were a kid. You’re not coming back here.
 - Steve Young's father
+
+The people working on EGO, nominally working for West but in fact amenable then to no one’s control, truly labored. They worked nights. They worked weekends. They argued hotly with each other. “It was the most incredible, soaring experience of my life,” said one of them later. And they worked with astonishing speed. Within two months they had a fairly complete specification. Then they took it to de Castro.
+- Tracy Kidder, "The Soul of A New Machine"
+
+Going to work for the Eclipse Group could be a rough way to start out in your profession. You set out for your first real job with all the loneliness and fear that attend new beginnings, drive east from Purdue or Northwestern or Wisconsin, up from Missouri or west from MIT, and before you’ve learned to find your way to work without a road map, you’re sitting in a tiny cubicle or, even worse, in an office like the one dubbed the Micropit, along with three other new recruits, your knees practically touching theirs; and though lacking all privacy and quiet, though it’s a job you’ve never really done before, you are told that you have almost no time at all in which to master a virtual encyclopedia of technical detail and to start producing crucial pieces of a crucial new machine. And you want to make a good impression. So you don’t have any time to meet women, to help your wife buy furniture for your apartment, or to explore the unfamiliar countryside. You work. You’re told, “Don’t even mention the name Eagle outside the group.” “Don’t talk outside the group,” you’re told. You’re working at a place that looks like something psychologists build for testing the fortitude of small animals, and your boss won’t even say hello to you.
+- Tracy Kidder, "The Soul of A New Machine"
+
+It was kind of like recruiting for a suicide mission. You’re gonna die, but you’re gonna die in glory.
+- Carl Alsing
+
+Not Everything Worth Doing Is Worth Doing Well.
+- Idiom
+
+I don’t want to beat people up. I don’t want to be a bad guy. I just want to get something done.
+- Holberger
+
+An oscilloscope is what cavemen used to debug fire.
+- Jim Veres
+
+It doesn’t matter how hard you work on something. What counts is finishing and having it work.
+- Holberger
+
+There’s thirty guys out there who think it’s their machine. I don’t want that tampered with. It’s very useful to me right now.
+- Tom West
+
+They didn’t have to name the bigger game. Everyone who had been on the team for a while knew what it was called. It didn’t involve stock options. Rasala and Alsing and many of the team had long since decided that they would never see more than token rewards of a material sort. The bigger game was “pinball.” West had coined the term; all the old hands used it. “You win one game, you get to play another. You win with this machine, you get to build the next.” Pinball was what counted. It was the tacit promise that lay behind signing up, at least for some. Holberger felt that way. "I said, ‘I will do this, I want do it. I recognize from the beginning it’s gonna be a tough job. I’ll have to work hard, and if we do a good job, we get to do it again.’"
+- Tracy Kidder, "The Soul of A New Machine"
+
+That’s the bear trap, the greatest vice. Your job. You can justify just about any behavior with it. Maybe that’s why you do it, so you don’t have to deal with all those other problems.
+- Tom West
