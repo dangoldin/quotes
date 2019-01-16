@@ -20,16 +20,16 @@ War is God's way of teaching Americans geography.
 - Ambrose Bierce
 
 Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent. The slogan Press On! has solved and always will solve the problems of the human race.
--Calvin Coolidge
+- Calvin Coolidge
 
 Never give in. Never give in. Never, never, never, never--in nothing, great or small, large or petty--never give in, except to convictions of honor and good sense. Never yield to force. Never yield to the apparently overwhelming might of the enemy.
--Churchill
+- Churchill
 
 It is not the critic who counts: not the man who points out how the strong man stumbles or where the doer of deeds could have done better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood, who strives valiantly, who errs and comes up short again and again, because there is no effort without error or shortcoming, but who knows the great enthusiasms, the great devotions, who spends himself for a worthy cause; who, at the best, knows, in the end, the triumph of high achievement, and who, at the worst, if he fails, at least he fails while daring greatly, so that his place shall never be with those cold and timid souls who knew neither victory nor defeat.
--Churchill
+- Churchill
 
 Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
--Twain
+- Twain
 
 If you ever go to a 25th high school reunion, make sure that in the previous two months you've made the world's highest-grossing movie, won 11 Academy Awards and become physically bigger than most of those guys who used to beat you up. I walked up to them one by one and said, "˜You know, I could take your ass right now, and I'm tempted, but I won't.' Actually, they were all nice guys except for one who was still big and mean. I left him alone.
 -James Cameron
@@ -76,10 +76,10 @@ Angel-headed hipsters burning for the ancient heavenly connection
 to the starry dynamo in the machinery of night,
   - Allen Ginsberg
 
-[A Fields Medal] indicates two things about the recipient: that he was capable of accomplishing something important, and that he didn't.
+A Fields Medal indicates two things about the recipient: that he was capable of accomplishing something important, and that he didn't.
   - Superintelligence
 
-Your margin is my opportunity
+Your margin is my opportunity.
   - Jeff Bezos
 
 The creative act is first and foremost an act of destruction.
@@ -127,7 +127,7 @@ Organizations which design systems ... are constrained to produce designs which 
 The structure of a problem reflects the structure of the organization that created it.
   - Bill Corcoran
 
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
   - Bjarne Stroustrup
 
 That’s a crock of shit. This isn’t a platform. A platform is when the economic value of everybody that uses it, exceeds the value of the company that creates it. Then it’s a platform.
@@ -136,7 +136,7 @@ That’s a crock of shit. This isn’t a platform. A platform is when the econom
 Everybody has a plan until they get punched in the mouth.
 - Mike Tyson
 
-Learn the rules like a pro so you can break them like an artist
+Learn the rules like a pro so you can break them like an artist.
 - Pablo Picasso
 
 My designs were so deceptively simple that it was easy for people to assume I just had easy problems, whereas others, who made super-complicated designs (that were technically unsound and never worked) and were able to talk about them in ways that nobody understood, were considered geniuses.
@@ -155,7 +155,7 @@ I feel bad for some companies out there. The founders, who are these incredible 
 - John Carmack http://fd.fabiensanglard.net/doom3/pdfs/johnc-interviews.pdf#page117
 
 The goal of the Deep Southern oligarchy has been consistent for over four centuries : to control and maintain a one - party state with a colonialstyle economy based on large - scale agriculture and the extraction of primary resources by a compliant , poorly educated , low - wage workforce with as few labor , workplace safety , health care , and environmental regulations as possible .
--Woodard, Colin. American Nations: A History of the Eleven Rival Regional Cultures of North America (Kindle Locations 4920-4923). Penguin Publishing Group. Kindle Edition.
+-Woodard, Colin. American Nations: A History of the Eleven Rival Regional Cultures of North America
 
 Lukas, everyone is going to give you advice. Ask for the story behind the advice . The story is always more interesting.
 - Travis Kalanick. from Stone, Brad. The Upstarts: How Uber, Airbnb, and the Killer Companies of the New Silicon Valley Are Changing the World
@@ -166,10 +166,10 @@ He still listened to colleagues and his co - founders , but after that year , he
 He is a great man who uses earthenware dishes as if they were silver; but he is equally great who uses silver as if it were earthenware. It is the sign of an unstable mind not to be able to endure riches.
 - Seneca
 
-Inspiration is for amateurs — the rest of us just show up and get to work. And the belief that things will grow out of the activity itself and that you will — through work — bump into other possibilities and kick open other doors that you would never have dreamt of if you were just sitting around looking for a great ‘art idea.’…If you hang in there, you will get somewhere.
+Inspiration is for amateurs — the rest of us just show up and get to work. And the belief that things will grow out of the activity itself and that you will — through work — bump into other possibilities and kick open other doors that you would never have dreamt of if you were just sitting around looking for a great ‘art idea.’ If you hang in there, you will get somewhere.
 - Chuck Close
 
-Culture eats strategy for breakfast
+Culture eats strategy for breakfast.
 - Peter Drucker
 
 We all have a Land of Beyond to seek in our life—what more can we ask? Our part is to find the trail that leads to it. A long trail, a hard trail, maybe; but the call comes to us, and we have to go. Rooted deep in the nature of every one of us is the spirit of adventure, the call of the wild—vibrating under all our actions, making life deeper and higher and nobler.
@@ -353,7 +353,6 @@ For someone with his reverence for efficiency, it was an exasperating situation.
 
 The Philadelphia mutiny had major repercussions in American history, for it gave rise to the notion that the national capital should be housed in a special federal district where it would never stand at the mercy of state governments.
 - Ron Chernow
-
 
 In speech no less than in writing, Hamilton’s fluency frequently shaded into excess. Hamilton had the most durable pair of lungs in the New York bar and could speak extemporaneously in perfectly formed paragraphs for hours.
 - Ron Chernow
