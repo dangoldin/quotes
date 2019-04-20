@@ -701,3 +701,186 @@ People of the same trade seldom meet together, even for merriment and diversion,
 
 Sometimes it is important that some customers want you to win, and understand that source – why do they want you to win? Why do they want you to exist?
 - Geoffrey Moore
+
+Landscapes have the power to teach, if you query them carefully. And remote landscapes teach the rarest, quietest lessons.
+- David Quammen, "Monster of God"
+
+He did discover a zeal for hunting—or, more accurately, for the sort of pampered travesty of hunting that only a despot gets to experience and only a delusional egoist would enjoy.
+- David Quammen, "Monster of God"
+
+Most famous among old-timers in New York were Dan the Dude’s place at 28 W. 28th St., and Bob Nelson’s place on 8th Avenue.
+- David Maurer and Luc Sante, "The Big Con"
+
+My English teacher, Mr. Tyler, dismayed by my chronic diffidence to homework, turned philosophical: “Paul is an ‘enthusiast’ (in the old religious sense) and when in the grip of an enthusiasm is almost totally irresponsible in other areas. How can one help such a student to see the error of his ways? I don’t know. He could even be more right than we, who knows?” In fact, I was thriving in a professional environment, working hard at something I took joy in. What better experience could there be for a sixteen-year-old?
+- Paul Allen
+
+When Bill felt himself flagging, he’d grab a jar of Tang, pour some powder on one hand, and lick it off for a pure sugar high. (His palms had a chronic orange tinge that summer.) Often we would work for two days straight and then crash for eighteen or twenty hours, which Bill called “getting slept up.”
+- Paul Allen
+
+Now time was short. Minutes before landing, I grabbed a steno pad and began scribbling the loader code in machine language—no labels, no symbols, just a series of three-digit numbers in octal (base 8), the lingua franca for Intel’s chips. Each number represented one byte, a single instruction for the 8080, and I knew most of them by heart. “Hand assembly” is a famously laborious process, even in small quantities. I finished the program in twenty-one bytes—not my most concise work, but I was too rushed to strive for elegance.
+- Paul Allen
+
+Eddie Currie, Ed Roberts’s general manager and milder alter ego, got one customer who insisted that his Altair wouldn’t work right because he and the computer had a personality conflict. Eddie said, “Well, how do you think we can resolve this?” And the customer said, “Maybe you could send me another Altair with a personality more like mine.”
+- Paul Allen
+
+7:30 AM—left work for home. Ate omelet. Sleep. 4:00 Work. Meet w/Eddie & Chamberlin. Want to know royalty situation. 6:00 Dinner. 7:00 Work—organic stuff. Can’t find notebook, where is it?! 9:45 Go home for a while. Sleep. 2:00 Wake up. Go to work. Put tables in BASIC.
+- Paul Allen
+
+I can’t control these guys. But they’re so smart I’ve got to keep them. They’re just so good at what they do.
+- Ed Roberts
+
+Most people are fools, most authority is malignant, God does not exist, and everything is wrong.
+- Ted Nelson
+
+Bill came to my house to discuss our options. He was dead set against moving to the Bay Area. He’d seen how people in Silicon Valley changed jobs every year or two, which couldn’t be good for our long-term projects. That left Seattle, because Bill missed his family, too. We could fly out to our Bay Area customers in ninety minutes, and the rainy days were a plus; they’d keep programmers from getting distracted. We agreed to finish out our lease and move home at the end of the year.
+- Paul Allen
+
+There are two phases to any invention. The first is the moment of inspiration. The second is the execution, which is less exciting but more than challenging in its own right.
+- Paul Allen
+
+The contrast couldn’t have been sharper. Xerox was an old company in an old industry going downhill, walking in the dark. It’s not that they didn’t know the answers. That’s normal. But they didn’t know the questions.
+- Charles Simonyi
+
+What problems are slowing you down?
+- Unknown
+
+The competition can be taken. But the only way we’re going to take them is to study them, know what they know, do what they do, watch them, watch them, watch them. Look for every angle, stay on their shoulders, clone them, take every one of their good ideas and make it one of our good ideas.
+- Paul Allen
+
+Still, one hard fact remains. Had I held on to my 24.9 percent of America Online, I would have been sitting on a $40 billion bonanza, more than all the money I’d make from my stake in Microsoft.
+- Paul Allen
+
+Two years later, Fred grudgingly gave his blessing to our ticketing Web site. It was a complex piece of software engineering that tackled credit-card clearance, user authentication, and real-time database updates. At last all was at the ready. When customer number one had completed the first transaction, our Web people called him and said, “Congratulations, you just bought the first concert ticket in the history of the Internet! Can you tell us why you decided to buy online?” The man said, “Because I don’t like talking to people, and I don’t like talking to you.” And he hung up.
+- Paul Allen
+
+We left behind a company with positive cash flow and a strong foundation, but the lessons I learned were among the most expensive ever. My net loss in the cable business was $8 billion.
+- Paul Allen
+
+Few things worth doing can be done alone. To get past the conceptual stage, ideas need to become crusades; you’ve got to convince people to join you.
+- Paul Allen
+
+Those who travel with the current will always feel they are good swimmers; those who swim against the current may never realize they are better swimmers than they imagine.
+- Shankar Vedantam
+
+In twenty-five years, the Mongol army subjugated more lands and people than the Romans had conquered in four hundred years.
+- Jack Weatherford
+
+In American terms, the accomplishment of Genghis Khan might be understood if the United States, instead of being created by a group of educated merchants or wealthy planters, had been founded by one of its illiterate slaves, who, by the sheer force of personality, charisma, and determination, liberated America from foreign rule, united the people, created an alphabet, wrote the constitution, established universal religious freedom, invented a new system of warfare, marched an army from Canada to Brazil, and opened roads of commerce in a free-trade zone that stretched across the continents. On every level and from any perspective, the scale and scope of Genghis Khan’s accomplishments challenge the limits of imagination and tax the resources of scholarly explanation.
+- Jack Weatherford
+
+It is for want of a man that there are so many men. It is individuals that populate the world.
+- Henry David Thoreau
+
+These derived not from epiphanic enlightenment or formal schooling but from a persistent cycle of pragmatic learning, experimental adaptation, and constant revision driven by his uniquely disciplined mind and focused will. His fighting career began long before most of his warriors at Bukhara had been born, and in every battle he learned something new. In every skirmish, he acquired more followers and additional fighting techniques. In each struggle, he combined the new ideas into a constantly changing set of military tactics, strategies, and weapons. He never fought the same war twice.
+- Jack Weatherford
+
+Though the steppe tribes of his time changed sides at the least provocation and soldiers might desert their leaders, none of Temujin’s generals deserted him throughout his six decades as a warrior. In turn, Temujin never punished or harmed one of his generals. Among the great kings and conquerors of history, this record of fidelity is unique.
+- Jack Weatherford
+
+The Mongols did not find honor in fighting; they found honor in winning. They had a single goal in every campaign—total victory.
+- Jack Weatherford
+
+The whirlwind of anger cast dust into the eyes of patience and clemency while the fire of wrath flared up with such a flame that it drove the water from his eyes and could be quenched only by the shedding of blood.
+- Juvaini
+
+With the family divided between those who wanted to invade Europe and those favoring an attack on the Sung dynasty, they reached a remarkable and unprecedented decision: The Mongol army would push out in all directions; it would divide and attack the Sung dynasty and Europe simultaneously. The Mongol army would fight campaigns that would stretch it out over a distance of five thousand miles and more than one hundred degrees of latitude, a feat unmatched by any army until World War II, when the United States and the Allies fought campaigns simultaneously in Europe and in Asia.
+- Jack Weatherford
+
+At the end of the debate, unable to convert or kill one another, they concluded the way most Mongol celebrations concluded, with everyone simply too drunk to continue.
+- Jack Weatherford
+
+The Mongol army had accomplished in a mere two years what the European Crusaders from the West and the Seljuk Turks from the East had failed to do in two centuries of sustained effort. They had conquered the heart of the Arab world. No other non-Muslim troops would conquer Baghdad or Iraq again until the arrival of the American and British forces in 2003.
+- Jack Weatherford
+
+It would be foolish not to recognize the greatness of Europe. But it would be equally foolish to forget the greatness of Asia.
+- Jawaharlal Nehru
+
+I decided it was worth the risk to spend $25,000 on an unknown machine for an unknown purpose.
+- Leo Beranek
+
+I had the policy that every person we hired had to be better than the previous people.
+- Leo Beranek
+
+At its core, all engineering comes down to making tradeoffs between the perfect and the workable.
+- Matthew Lyon and Katie Hafner
+
+What I came to understand deeply and in a new way once I made my way into the scrappier start-up world is that people have power. A company’s job isn’t to empower people; it’s to remind people that they walk in the door with power and to create the conditions for them to exercise it. Do that, and you will be astonished by the great work they will do for you.
+- Patty McCord
+
+Our first big realization was that the remaining people were the highest performers, and it taught us that the best thing you can do for employees is hire only high performers to work alongside them. It’s a perk far better than foosball or free sushi or even a big signing bonus or the holy grail of stock options. Excellent colleagues, a clear purpose, and well-understood deliverables: that’s the powerful combination.
+- Patty McCord
+
+Our Netflix executive team was fierce. We were combative in that beautiful, intellectual way where you argue to tease out someone’s viewpoint, because although you don’t agree, you think the other person is really smart so you want to understand why they think what they think. That respect for one another’s intelligence and genuine desire to discover the bases of colleagues’ views drove intense mutual questioning and kept it mostly productive and civil, if often quite colorful. The team also modeled this vigorous questioning for employees in many forums, openly debating one another.
+- Patty McCord
+
+The downside of experts is that they are all too aware of the current constraints. Someone with fresh eyes can sometimes find their way around constraints, almost out of ignorance.
+- Eric Colson
+
+People’s happiness in their work is not about gourmet salads or sleeping pods or foosball tables. True and abiding happiness in work comes from being deeply engaged in solving a problem with talented people you know are also deeply engaged in solving it, and from knowing that the customer loves the product or service you all have worked so hard to make.
+- Patty McCord
+
+In my experience, high performers are, in fact, often somewhat frustrated with how their teams are performing rather than satisfied that everything is going swimmingly and life is all good. They are pushing for great results, and achieving those often requires some pain and a degree of discontent. That commitment to achievement is what we want to foster, not the expectation that as long as you’re working hard, the company will have your back.
+- Patty McCord
+
+Heroes and villains will appear, and because life is meant to be lived rather than analyzed, I have no qualms about saying who I think is which. There will be a scarcity of saints but an abundance of martyrs. That is the way of our moment in time.
+- Martin Gurri
+
+The result is paralysis by distrust. The Border, it is already clear, can neutralize but not replace the Center. Networks can protest and overthrow, but never govern. Bureaucratic inertia confronts digital nihilism. The sum is zero.
+- Martin Gurri
+
+The industrial age was Taylorist to the core. The ordinary person, so hopelessly parochial through all of history, got flattened into the masses: better educated, more affluent and mobile, and organized into gigantic hierarchies for every domain of activity. The masses functioned as the anti-public. More precisely: the masses impersonated the public for the benefit of the hierarchy, while stripping it of all spontaneity and repudiating its authentic interests. In the marketplace, for example, the mass consumer was created by stripping away all particularities and recognizing only certain universal needs and tastes: those satisfied by mass production.
+- Martin Gurri
+
+One is from below, from ground level, the way the young people of the movement experienced their situation. From this place, the revolts of 2011 can be explained by the colossal failure of Spain’s ruling institutions. The second perspective will be the bird’s eye view of history—and it will show that the revolt of the indignados was propelled by a self-destructive contempt for the world which had created the young rebels.
+- Martin Gurri
+
+It is perfectly possible for the elites to lapse into paralysis while the public staggers into nihilism. Indeed, this could be our future.
+- Martin Gurri
+
+Pure negation is nothing and leads nowhere. Neither-nor resembles a curse in a fairy-tale because it’s open-ended. Under its spell, a revolutionary can never declare victory, or even glimpse the promised land from a high place. He can only batter away at the established order, until every trace of history has been erased from social life. Then he too, as a child of history, will disappear.
+- Martin Gurri
+
+The aims of democratic government have shifted, even if the language of politics has yet to catch up. High modernist government was an austere prophet, demanding the destruction of the muddled present to make room for the perfect future. Late modernist government is more like a kindly uncle, passing out chocolate chip cookies to his favorite nieces and nephews. He doesn’t wish to transform them. He just wants them to be happy—most particularly, with him.
+- Martin Gurri
+
+So I come to the abiding paradox that defines our predicament. An affluent, well-educated, hyper-connected public is in revolt against the system that has bestowed all of this bounty upon it. The great motive power of the revolt isn’t economic resentment but outrage over distance and failure.
+- Martin Gurri
+
+Networks come with three major advantages: private information, diverse skills, and power.
+- Adam Grant
+
+You should be willing to do something that will take you five minutes or less for anybody.
+- Adam Rifkin
+
+Expedition behavior involves putting the group’s goals and mission first, and showing the same amount of concern for others as you do for yourself.
+- Adam Grant
+
+When we treat man as he is, we make him worse than he is; when we treat him as if he already were what he potentially could be, we make him what he should be.
+- Adam Grant
+
+But there’s a twist: expressing vulnerability is only effective if the audience receives other signals establishing the speaker’s competence.
+- Adam Grant
+
+Some people, when they do someone a favor, are always looking for a chance to call it in. And some aren’t, but they’re still aware of it—still regard it as a debt. But others don’t even do that. They’re like a vine that produces grapes without looking for anything in return . . . after helping others . . . They just go on to something else . . . We should be like that.
+— Marcus Aurelius
+
+A rule of thumb derived from our experience and from conversations with leaders of hyper-growth companies is that once your development team is larger than 20, trying to double the team in less than a year is likely to lead to trouble. Expect to waste time on personnel issues, product flaws introduced by poorly trained new hires, flagging morale, and inefficient meetings instead of moving your product forward and keeping customers happy.
+- Alexander Grosse and David Loftesness
+
+This bears repeating: no one has a better view of a product or feature than the team who works on it every day. If leadership can provide them with the bigger picture, they should have enough context to make the right decisions.
+- Alexander Grosse and David Loftesness
+
+When groups are small, for example, everyone’s stake in the outcome of the group project is high. At a small biotech, if the drug works, everyone will be a hero and a millionaire. If it fails, everyone will be looking for a job. The perks of rank—job titles or the increase in salary from being promoted—are small compared to those high stakes.
+- Safi Bahcall
+
+Many of the best biotech and pharma companies today have learned to separate the roles of inventor and champion. They train people for the project champion job—the Deak Parsons skill-set—and elevate their authority. It goes against the grain. On the creative side, inventors (artists) often believe that their work should speak for itself. Most find any kind of promotion distasteful. On the business side, line managers (soldiers) don’t see the need for someone who doesn’t make or sell stuff—for someone whose job is simply to promote an idea internally.
+- Safi Bahcall
+
+In Italy, for 30 years under the Borgias, they had warfare, terror, murder and bloodshed, but they produced Michelangelo, Leonardo da Vinci, and the Renaissance. In Switzerland, they had brotherly love, they had 500 years of democracy and peace—and what did that produce? The cuckoo clock.
+— Graham Greene/Orson Welles, "The Third Man"
+
+Do not undertake a program unless the goal is manifestly important and its achievement nearly impossible.
+- Edwin Land
+
+Luck is the residue of design.
+- Branch Rickey
