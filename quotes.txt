@@ -701,3 +701,7 @@ People of the same trade seldom meet together, even for merriment and diversion,
 
 Sometimes it is important that some customers want you to win, and understand that source – why do they want you to win? Why do they want you to exist?
 - Geoffrey Moore
+
+With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody.
+- Hyrum
+
