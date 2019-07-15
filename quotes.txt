@@ -884,3 +884,6 @@ Do not undertake a program unless the goal is manifestly important and its achie
 
 Luck is the residue of design.
 - Branch Rickey
+
+The most costly disruptions always happen when something we take completely for granted stops working for a minute.
+- Josiah Bartlet, "West Wing"
