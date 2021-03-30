@@ -951,3 +951,9 @@ There is separation of colored people from white people in the United States. Th
 
 Growing a company is kind of like a process of having principles methodically beaten out of you.
 - Andrew Mason
+
+When I first joined the Amazon Web Services team in 2003, it was still a small Jeff Bezos-sponsored project. There were only some 15 people or so on the team at the time under the leadership of now Amazon CEO Andy Jassy.
+A book Jeff had us read, one which he said should serve as an inspiration for how we'd design AWS, was Creation: Life and How to Make It by Steve Grand. It's a book about programming artificial life, but the core principle that Jeff wanted us to take from it was the idea that complex things like life forms are built from very simple building blocks or primitives. It's the same thesis as that in Stephen Wolfram's A New Kind of Science.
+The key implication for AWS from the book was about how to design the first AWS primitives. Jeff urged us to include only what was necessary and nothing more. If you were designing a storage service, like S3, you'd need functions like get, write, delete, but you wouldn't want to layer in things that weren't part of storage, like security. That should be a separate primitive.
+The reason to design your primitives with the utmost elegance is to maximize combinatorial optionality.
+- Eugene Wei, https://www.eugenewei.com/blog/2021/2/15/american-idle
