@@ -957,3 +957,6 @@ A book Jeff had us read, one which he said should serve as an inspiration for ho
 The key implication for AWS from the book was about how to design the first AWS primitives. Jeff urged us to include only what was necessary and nothing more. If you were designing a storage service, like S3, you'd need functions like get, write, delete, but you wouldn't want to layer in things that weren't part of storage, like security. That should be a separate primitive.
 The reason to design your primitives with the utmost elegance is to maximize combinatorial optionality.
 - Eugene Wei, https://www.eugenewei.com/blog/2021/2/15/american-idle
+
+The great paradox of the brain is that everything you know about the world is provided to you by an organ that has itself never seen that world. The brain exists in silence and darkness, like a dungeoned prisoner. It has no pain receptors, literally no feelings. It has never felt warm sunshine or a soft breeze. To your brain, the world is just a stream of electrical pulses, like taps of Morse code. And out of this bare and neutral information it creates for you—quite literally creates—a vibrant, three-dimensional, sensually engaging universe. Your brain is you. Everything else is just plumbing and scaffolding.
+- Bill Bryson, "The Body"
