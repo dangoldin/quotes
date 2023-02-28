@@ -983,3 +983,6 @@ Either you win or you learn, you never lose.
 
 Victory has a thousand fathers, but defeat is an orphan.
 - John F Kennedy
+
+The ethical is always more robust than the legal. Over time, it is the legal that should converge to the ethical, never the reverse.
+- Nassim Nicholas Taleb, "Skin in the Game"
