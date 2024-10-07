@@ -32,7 +32,7 @@ Twenty years from now you will be more disappointed by the things that you didn�
 - Twain
 
 If you ever go to a 25th high school reunion, make sure that in the previous two months you've made the world's highest-grossing movie, won 11 Academy Awards and become physically bigger than most of those guys who used to beat you up. I walked up to them one by one and said, "˜You know, I could take your ass right now, and I'm tempted, but I won't.' Actually, they were all nice guys except for one who was still big and mean. I left him alone.
--James Cameron
+- James Cameron
 
 Before I studied the art, a punch was just like a punch, a kick just like a kick. After I studied the art, a punch is no longer a punch, a kick is no longer a kick. Now that I understand the art, a punch is just like a punch, a kick is just like a kick.
 - Bruce Lee
@@ -68,67 +68,67 @@ Morale is strong but discipline is weak.
 - WW2 book
 
 If you like the idea of government, that means you cherish freedom from assault more than freedom to assault.
-  - Robert Wright, NonZero
+- Robert Wright, NonZero
 
 I saw the best minds of my generation destroyed by madness, starving hysterical naked,
 dragging themselves through the negro streets at dawn looking for an angry fix,
 Angel-headed hipsters burning for the ancient heavenly connection
 to the starry dynamo in the machinery of night,
-  - Allen Ginsberg
+- Allen Ginsberg
 
 A Fields Medal indicates two things about the recipient: that he was capable of accomplishing something important, and that he didn't.
-  - Superintelligence
+- Superintelligence
 
 Your margin is my opportunity.
-  - Jeff Bezos
+- Jeff Bezos
 
 The creative act is first and foremost an act of destruction.
-  - Pablo Picasso
+- Pablo Picasso
 
 It is to be borne in mind that imitation is the sincereset form of flattery, and hypocrisy the tribute which vice pays to virtue.
-  - Louis D Brandeis
+- Louis D Brandeis
 
 Some men buy diamonds and rare works of art; others delight in automobiles and yachts. My luxury is to invest my surplus effort . . . to the pleasure of taking up a problem and solving . . . it for the people without receiving any compensation . . .I should lose much of my satisfaction if I were paid in connection with public services . . . I don’t want money or property most. I want to be free.
-  - Louis D Brandeis
+- Louis D Brandeis
 
 Some men buy diamonds and rare works of art; others delight in automobiles and yachts. My luxury is to invest my surplus effort, beyond that required for the proper support of my family, to the pleasure of taking up a problem and solving, or helping to solve it, for the people without receiving any compensation.
-  - Louis D Brandeis
+- Louis D Brandeis
 
 Always throw the prototype away and start over, because you will throw it away eventually, and doing so early saves time and effort.
-  - Frederick Brooks
+- Frederick Brooks
 
 You pray for wind, rain, sun - you're always praying for something, looking at the sky. This contact with nature makes you more human, more inside the universe. Olive-oil making is really Homeric.
-  - Francisco (oil maker in Extra Virgin book)
+- Francisco (oil maker in Extra Virgin book)
 
 If you can't make engineering decisions based on data, then make engineering decisions that result in data.
-  - Kent Beck
+- Kent Beck
 
 In preparing for battle I have always found that plans are useless, but planning is indispensable.
-  - Dwight Eisenhower
+- Dwight Eisenhower
 
 A beaver and a chipmunk happened upon the Hoover Dam while out strolling one day. They were caught off-guard, completely overwhelmed with amazement and awe at the size and magnificence of this structure. Once the beaver recovered, he remarked, "Well, actually, I didn't build it myself, but it's based upon an idea of mine."
-  - Unattributed
+- Unattributed
 
 The truth is that the State is a conspiracy designed not only to exploit, but above all to corrupt its citizens ... Henceforth, I shall never serve any government anywhere.
-  - Leo Tolstoy
+- Leo Tolstoy
 
 Perfection is not attainable, but if we chase perfection we can catch excellence.
-  - Vince Lombardi
+- Vince Lombardi
 
 There’s only two ways I know of to make money– bundling, and unbundling.
-  - Jim Barksdale
+- Jim Barksdale
 
 One of the things I’ve always found is that you’ve got to start with the customer experience and work backwards to the technology. You can’t start with the technology and try to figure out where you’re going to try to sell it. And I’ve made this mistake probably more than anybody else in this room. And I got the scar tissue to prove it.
-  - Steve Jobs
+- Steve Jobs
 
 Organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations
-  - Conway's law
+- Conway's law
 
 The structure of a problem reflects the structure of the organization that created it.
-  - Bill Corcoran
+- Bill Corcoran
 
 C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
-  - Bjarne Stroustrup
+- Bjarne Stroustrup
 
 That’s a crock of shit. This isn’t a platform. A platform is when the economic value of everybody that uses it, exceeds the value of the company that creates it. Then it’s a platform.
 - Bill Gates
@@ -306,7 +306,7 @@ Thus, a story concocted by Mark strictly for evangelistic purposes to shift the 
 Predicting rain doesn’t count. Building arks does.
 - Warren Buffet
 
-As with so many things , he willed the court into being through sheer orneriness and energy.
+As with so many things, he willed the court into being through sheer orneriness and energy.
 - Andre Agassi
 
 A win doesn’t feel as good as a loss feels bad, and the good feeling doesn’t last as long as the bad. Not even close.
